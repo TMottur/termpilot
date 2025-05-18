@@ -3,6 +3,8 @@
 **Explain terminal output with GPT-4 in one command.**
 
 ---
+## About
+TermPilot is a Rust-based CLI that pipes terminal output to GPT-4 and returns a concise explanation. Useful for debugging cryptic commands, understanding logs, and speeding up shell workflows. Open source, configurable, and dead simple.
 
 ## Example
 
